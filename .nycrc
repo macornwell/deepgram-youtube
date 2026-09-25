@@ -1,0 +1,9 @@
+{
+  "check-coverage": true,
+  "branches": 0,
+  "lines": 0,
+  "functions": 0,
+  "statements": 0,
+  "include": ["src/**/!(*.test.*).[tj]s?(x)"],
+  "exclude": ["./config.unit-test.mjs"]
+}
